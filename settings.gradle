@@ -1,1 +1,1 @@
-include ':app', ':qfalertcontroller'
+include ':app', ':qfalert'
